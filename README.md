@@ -1,5 +1,3 @@
-Here's a `README.md` template for your **so_long** 42 project:
-
 ```md
 # so_long
 
@@ -50,7 +48,7 @@ Replace `map.ber` with your map file. The map file should use the following char
 $ ./so_long map.ber
 ```
 ## love map
-![alt text](http://url/to/img.png)
+![alt text](https://ibb.co/Zxygfqc)
 
 ## How It Works
 
