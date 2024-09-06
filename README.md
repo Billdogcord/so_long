@@ -48,7 +48,7 @@ Replace `map.ber` with your map file. The map file should use the following char
 $ ./so_long map.ber
 ```
 ## love map
-![alt text](https://ibb.co/Zxygfqc)
+![alt text]([https://ibb.co/Zxygfqc](https://i.ibb.co/qpbgDTm/Screen-Shot-2024-09-06-at-10-25-38-PM.png)
 
 ## How It Works
 
