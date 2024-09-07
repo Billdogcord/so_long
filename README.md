@@ -1,5 +1,5 @@
+### so_long - First graphical 42 project!
 ```md
-# so_long
 
 ## About
 
